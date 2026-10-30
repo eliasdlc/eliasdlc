@@ -17,7 +17,7 @@ I build apps, tools and websites from the Dominican Republic.
 
 ## Websites
 
-- **[Dentarium Dental Clinic](https://dentarium-dental-clinic.vercel.app)**: [source](https://github.com/eliasdlc/dentarium-dental-clinic)
+- **[Dentarium Dental Clinic](https://github.com/eliasdlc/dentarium-dental-clinic)**: source only, the deployment is offline.
 - **[Pet Hospital RD](https://pet-hospital-rd.vercel.app)**: [source](https://github.com/eliasdlc/pet-hospital-rd)
 - **[Dra. Veronica Lockward](https://draveronicalockward.vercel.app)**: [source](https://github.com/eliasdlc/doctora-veronica-lockward)
 
