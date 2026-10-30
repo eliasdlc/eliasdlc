@@ -42,8 +42,3 @@ I build apps, tools and websites from the Dominican Republic.
 ![Three.js](https://img.shields.io/badge/Three.js-12161A?style=flat-square&logo=threedotjs&logoColor=E6EDF3)
 ![Playwright](https://img.shields.io/badge/Playwright-12161A?style=flat-square&logo=playwright&logoColor=2EAD33)
 ![Firebase](https://img.shields.io/badge/Firebase-12161A?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliasdlc/eliasdlc/output/snake-dark.svg">
-  <img alt="Contribution graph with a snake eating the contributions" src="https://raw.githubusercontent.com/eliasdlc/eliasdlc/output/snake.svg" width="100%">
-</picture>
