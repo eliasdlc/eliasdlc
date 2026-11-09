@@ -5,6 +5,8 @@ I build apps, tools and websites from the Dominican Republic.
 
 [Website](https://decruce.dev) / [X](https://x.com/eliasdlc_dev) / [Email](mailto:eliasdlc2005@gmail.com)
 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_public/eliasdlc.svg)](https://user-badge.committers.top/dominican_republic_public/eliasdlc)
+
 ## Products
 
 - **[Kino](https://usekino.dev)**: a planner that learns your real energy curve and shapes your day around it. An agent can operate it through MCP. `TypeScript`
